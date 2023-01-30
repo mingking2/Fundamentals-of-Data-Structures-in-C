@@ -36,5 +36,20 @@
     <ClCompile Include="Phonebook03.cpp">
       <Filter>소스 파일\2_Phonebook</Filter>
     </ClCompile>
+    <ClCompile Include="Phonebook03(하은).cpp">
+      <Filter>소스 파일\2_Phonebook</Filter>
+    </ClCompile>
+    <ClCompile Include="Phonebook03(승제).cpp">
+      <Filter>소스 파일\2_Phonebook</Filter>
+    </ClCompile>
+    <ClCompile Include="Phonebook03(민주).cpp">
+      <Filter>소스 파일\2_Phonebook</Filter>
+    </ClCompile>
+    <ClCompile Include="Phonebook03(지안).cpp">
+      <Filter>소스 파일\2_Phonebook</Filter>
+    </ClCompile>
+    <ClCompile Include="Phonebook03(새진).cpp">
+      <Filter>소스 파일\2_Phonebook</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
