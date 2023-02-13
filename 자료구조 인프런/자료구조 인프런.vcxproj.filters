@@ -63,5 +63,11 @@
     <ClCompile Include="Phonebook04(지안).cpp">
       <Filter>소스 파일\2_Phonebook</Filter>
     </ClCompile>
+    <ClCompile Include="Phonebook04(하은).cpp">
+      <Filter>소스 파일\2_Phonebook</Filter>
+    </ClCompile>
+    <ClCompile Include="Phonebook05.cpp">
+      <Filter>소스 파일\2_Phonebook</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
